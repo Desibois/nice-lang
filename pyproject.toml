@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nice-lang"
+version = "0.1.0"
+description = "The Nice language"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Harjas Singh", email = "desibois@outlook.com" }]
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/Desibois/nice-lang"
+
+[project.scripts]
+nice = "nice:run_compiler"
+
+[tool.setuptools.packages.find]
+where = ["nice"]
+
+[tool.setuptools.package-data]
+nice = ["data/*.txt", "config/*.yml"]

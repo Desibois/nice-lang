@@ -1,0 +1,7 @@
+rich==13.9.4
+regex==2024.11.6
+requests==2.32.3
+pyyaml==6.0.2
+sympy==1.13.1 
+langchain-ollama==0.2.3
+    

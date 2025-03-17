@@ -1,0 +1,2 @@
+[console_scripts]
+nice = nice:run_compiler

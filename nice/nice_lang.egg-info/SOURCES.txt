@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+nice/nice_lang.egg-info/PKG-INFO
+nice/nice_lang.egg-info/SOURCES.txt
+nice/nice_lang.egg-info/dependency_links.txt
+nice/nice_lang.egg-info/entry_points.txt
+nice/nice_lang.egg-info/top_level.txt
