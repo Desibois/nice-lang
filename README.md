@@ -22,7 +22,7 @@ In Command Prompt, run
 pip install nice-lang
 ollama pull qwen2.5-coder
 
-#How To Use
+## How To Use
 In your code editor, open a file and save it with the extension .nc
 Run your file in the terminal, using the command
 `nice test.nc`
