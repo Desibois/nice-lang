@@ -1,7 +1,6 @@
 # Nice Compiler
 
-**Nice** is a polite and user-friendly programming language where every line starts with `please` and ends with `thanks`.
-Code in any syntax you like as the language incorporates AI
+**Nice** is the most polite programming language you will ever see. Use your manners and don't annoy the compiler or the file just might get deleted :)
 
 ## Features
 - **Politeness enforced** – Every line must begin with `please`.
